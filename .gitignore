@@ -1,2 +1,5 @@
 ./data
-./img
+/data/*
+/img/*
+.DS_store
+.ipynb_checkpoints/
