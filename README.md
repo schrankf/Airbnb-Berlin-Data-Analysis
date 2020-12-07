@@ -1,6 +1,7 @@
 # Analysis of the Airbnb Berlin dataset
 
-A repository for the Airbnb Berlin project.
+A repository for the Airbnb Berlin project and post on Medium:
+https://schrankf.medium.com/still-a-divided-city-4302d08c1d52
 
 ## About
 
